@@ -1,0 +1,24 @@
+<HTML>
+<head>
+<title>
+Hulk
+</title>
+</head>
+<Body Bgcolor="violet">
+<div style="text-align:center;">
+<H2 style="color: blue">Hulk</H2>
+<p style="color: blue"> The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk . In his comic book appearances, the character is both the Hulk, a green-skinned, hulking and muscular humanoid possessing a vast degree of physical strength, and his alter ego Dr. Robert Bruce Banner, a physically weak, socially withdrawn, and emotionally reserved physicist. The two exist as independent dissociative personalities, and resent each other.
+
+Following his accidental exposure to gamma rays saving the life of Rick Jones during the detonation of an experimental bomb, Banner is physically transformed into the Hulk when subjected to emotional stress, at or against his will, often leading to destructive rampages and conflicts that complicate Banner's civilian life. The Hulk's level of strength is normally conveyed as proportionate to his level of anger. Commonly portrayed as a raging savage, the Hulk has been represented with other personalities based on Banner's fractured psyche, from a mindless, destructive force, to a brilliant warrior, or genius scientist in his own right. <p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r8SM6sSugj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<input type="button" value="Go Back" onclick="Hulk()"/>
+<script>
+      function Hulk()
+      {
+      window.open("index.html");
+      }
+</script>
+
+<Body</HTML>

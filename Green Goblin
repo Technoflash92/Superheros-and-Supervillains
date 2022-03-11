@@ -1,0 +1,22 @@
+<HTML>
+<head>
+<title>
+Green Goblin
+</title>
+</head>
+<Body Bgcolor="green">
+<div style="text-align:center;">
+<H2 style="color: pink">Green Goblin</H2>
+<p style="color: pink">The Green Goblin is the alias of several supervillains appearing in American comic books published by Marvel Comics. The first known incarnation, Norman Osborn, created by Stan Lee and Steve Ditko, is generally regarded as the archenemy of Spider-Man. Originally a manifestation of chemically induced insanity, others such as Norman's son Harry Osborn would take on the persona. The Green Goblin is a Halloween-themed super villain whose weapons resemble bats, ghosts and jack-o'-lanterns and in most incarnations uses a hoverboard or glider to fly.
+
+Comics journalist and historian Mike Conroy writes of the character: "Of all the costumed villains who've plagued Spider-Man over the years, the most flat-out unhinged and terrifying of them all is the Green Goblin." The Green Goblin has appeared in numerous media adaptations of Spider-Man over the years, including films, animated television series, and video games. Norman Osborn is portrayed by Willem Dafoe in Sam Raimi's Spider-Man film trilogy (2002-2007) and the Marvel Cinematic Universe film Spider-Man: No Way Home (2021), and by Chris Cooper in the 2014 film The Amazing Spider-Man 2. Harry was portrayed by James Franco in the Spider-Man trilogy and by Dane DeHaan in The Amazing Spider-Man 2.<p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqAw9C5Deqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ <input type="button" value="Go Back" onclick="b()"/>
+ <script>
+      function b()
+      {
+      window.open("Villains.html");
+      }
+</script>
+<Body</HTML>

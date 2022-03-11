@@ -1,0 +1,22 @@
+<HTML>
+<head>
+<title>
+Red Skull
+</title>
+</head>
+<Body Bgcolor="black">
+<div style="text-align:center;">
+<H2 style="color: red">Red skull</H2>
+<p style="color: red">The Red Skull is an alias used by several supervillains appearing in American comic books published by Marvel Comics and its predecessor Timely Comics. The first version, George Maxon, appeared in Captain America Comics #1 and #4. The main incarnation of the character, Johann Shmidt, was created by Joe Simon and Jack Kirby, and first appeared in Captain America Comics #7 in October 1941.[1] Originally portrayed as a Nazi agent and protégé of Adolf Hitler during World War II, the Red Skull has endured as the archenemy of the superhero Captain America.[2] Initially wearing a fearsome blood-red death skull mask that symbolizes carnage and chaos to intimidate, decades after the war he suffers a horrific disfigurement that matches his persona.
+
+The Red Skull was ranked number 21 on Wizard magazine's top 100 greatest villains ever list and ranked as IGN's 14th-greatest comic book villain of all time.[3] The character has been adapted to a variety of other media platforms, including animated television series, video games and live-action feature films. He was portrayed by actor Scott Paulin in the 1990 direct-to-video film Captain America. In the Marvel Cinematic Universe, Hugo Weaving played the character in Captain America: The First Avenger (2011), and Ross Marquand voiced the character in Avengers: Infinity War (2018) and Avengers: Endgame (2019) as well as an alternate version in the Disney+ animated series What If...? (2021).<p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6rQHnZMo6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ <input type="button" value="Go Back" onclick="b()"/>
+ <script>
+      function b()
+      {
+      window.open("Villains.html");
+      }
+</script>
+<Body</HTML>

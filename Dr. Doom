@@ -1,0 +1,24 @@
+<HTML>
+<head>
+<title>
+Doctor Doom
+</title>
+</head>
+<Body Bgcolor="silver">
+<div style="text-align:center;">
+<H2 style="color: darkgreen">Doctor Doom</H2>
+<p style="color: darkgreen">Doctor Victor Von Doom is a supervillain appearing in American comic books published by Marvel Comics. Created by Stan Lee and Jack Kirby, the character made his debut in The Fantastic Four #5 (July 1962). The monarch of the fictional nation Latveria, Doctor Doom has been portrayed as both a supervillain and antihero, and is most frequently depicted as the archenemy of the Fantastic Four. Doom has come into conflict with other superheroes including Spider-Man, Iron Man, Doctor Strange, Black Panther, Daredevil, the X-Men, and the Avengers.
+
+Doctor Doom was ranked #4 by Wizard on its list of the 101 Greatest Villains of All Time and #3 on IGN's list of the Top 100 Comic Book Villains of All Time. In a later article, IGN would declare Doom as Marvel's greatest villain.
+
+The character has been substantially adapted from the comics into several forms of media, including television series, video games, and merchandise such as action figures and trading cards. Most notably, Doctor Doom has been portrayed in licensed Fantastic Four live-action feature films by Joseph Culp in Roger Corman's unreleased 1994 film; Julian McMahon in the 2005 film and its 2007 sequel; and Toby Kebbell in the 2015 film.<p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V8ATsSTwyqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ <input type="button" value="Go Back" onclick="b()"/>
+ <script>
+      function b()
+      {
+      window.open("Villains.html");
+      }
+</script>
+<Body</HTML>

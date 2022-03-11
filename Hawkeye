@@ -1,0 +1,25 @@
+<HTML>
+<head>
+<title>
+Hawkeye
+</title>
+</head>
+<Body Bgcolor="silver">
+<div style="text-align:center;">
+<H2 style="color: purple">Hawkeye</H2>
+<p style="color: purple"> Hawkeye (Clinton Francis "Clint" Barton) is a fictional character appearing in American comic books published by Marvel Comics. Created by writer Stan Lee and artist Don Heck, the character first appeared as a supervillain in Tales of Suspense #57 (Sept. 1964) and later joined the Avengers as a superhero in The Avengers #16 (May 1965). He has since been a prominent member of several Avengers teams, founding the West Coast Avengers, briefly marrying and subsequently divorcing Bobbi Morse / Mockingbird, adopting the Ronin alias after his death and resurrection before mentoring Kate Bishop as his successor as Hawkeye. He was also ranked at #44 on IGN's Top 100 Comic Book Heroes list.[3]
+
+Jeremy Renner portrayed the character in the Marvel Cinematic Universe films Thor (2011) in an uncredited cameo appearance, The Avengers (2012), Avengers: Age of Ultron (2015), Captain America: Civil War (2016) and Avengers: Endgame (2019). Additionally, Renner voiced alternate timeline versions of the character in the Disney+ animated series What If...? and portrayed the character in the series Hawkeye (both 2021).<p><br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivV03DZQdzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<input type="button" value="Go Back" onclick="h()"/> 
+<script>
+      function h()
+      {
+      window.open("index.html");
+      }
+</script>
+
+<Body</HTML>
+

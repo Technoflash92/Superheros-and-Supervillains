@@ -1,0 +1,26 @@
+<HTML>
+<head>
+<title>
+Magneto
+</title>
+</head>
+<Body Bgcolor="maroon">
+<div style="text-align:center;">
+<H2 style="color: gold">Magneto</H2>
+<p style="color: gold">Magneto (Max Eisenhardt)  is a fictional character appearing in American comic books published by Marvel Comics, commonly in association with the X-Men. Created by writer Stan Lee and artist/co-writer Jack Kirby, the character first appears in The X-Men #1 (cover-dated September 1963) as an adversary of the X-Men.
+
+The character is a powerful mutant, one of a fictional subspecies of humanity born with superhuman abilities, who has the ability to generate and control magnetic fields. Magneto regards mutants as evolutionarily superior to humans and rejects the possibility of peaceful human-mutant coexistence; he initially aimed to conquer the world to enable mutants, whom he refers to as homo superior, to replace humans as the dominant species. Writers have since fleshed out his origins and motivations, revealing him to be a Holocaust survivor whose extreme methods and cynical philosophy derive from his determination to protect mutants from suffering a similar fate at the hands of a world that fears and persecutes mutants. He is a friend of Professor X, the leader of the X-Men, but their different philosophies cause a rift in their friendship at times. Magneto's role in comics has varied from supervillain to antihero to superhero, having served as an occasional ally and even a member of the X-Men at times.
+
+His character has been compared with the civil rights leader Malcolm X and Jewish Defense League founder Meir Kahane. Magneto opposes the pacifist attitude of Professor X and pushes for a more aggressive approach to achieving civil rights for mutants. Magneto was ranked by IGN as the Greatest Comic Book Villain of All Time.
+
+Ian McKellen portrayed Magneto in a majority of the X-Men film series, while Michael Fassbender portrayed a younger version of the character.<p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-r8mhZH11o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ <input type="button" value="Go Back" onclick="b()"/>
+ <script>
+      function b()
+      {
+      window.open("Villains.html");
+      }
+</script>
+<Body</HTML>
