@@ -1,0 +1,22 @@
+<HTML>
+<head>
+<title>
+Thanos
+</title>
+</head>
+<Body Bgcolor="purple">
+<div style="text-align:center;">
+<H2 style="color: gold">Thanos</H2>
+<p style="color: gold"> Thanos was a genocidal warlord from Titan, whose objective was to bring stability to the universe by wiping out half of all life at every level, as he believed its massive population would inevitably use up the universe's entire supply of resources and perish. To complete this goal, Thanos set about hunting down all the Infinity Stones, being confident that the combined force of the Stones would grant him sufficient power. Thanos forged alliances with Loki and Ronan the Accuser in order to track down some of the Stones. However, both alliances cost Thanos much of his resources, including the Mind Stone and the loyalty of his daughters, Gamora and Nebula. Fed up with all his subordinates' ongoing failures, Thanos made the decision to seek and procur the Stones himself, and he began by forcing Eitri to create the Infinity Gauntlet for him so that he would be able to wield the power of the Stones safely.
+
+Thanos then engaged in a ferocious crusade in order to obtain the Infinity Stones. During his mission, both Thanos and his Black Order invaded multiple planets and slaughtered thousands to gain the stones, including Loki and the Asgardians. This quest even forced Thanos to sacrifice his beloved Gamora, in order to take the Soul Stone. Thanos soon found himself challenged by the alliances of the entire universe's greatest heroes, which included the Avengers and Guardians of the Galaxy. However, despite facing off against the powerfully combined opposition and the wrath of Thor, Thanos still ultimately triumphed as he completed the Infinity Gauntlet, using it to finally complete his goal through the Snap, which resulted in half of all life in the universe being wiped out with a mere snap of his fingers. Following his Snap, Thanos had then ensured this could never be undone by destroying all of the Infinity Stones, resulting in the Avengers tracking him down on Planet 0259-S, where Thor executed him with Stormbreaker.<p><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aAUrQXMP77M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+ <input type="button" value="Go Back" onclick="b()"/>
+ <script>
+      function b()
+      {
+      window.open("Villains.html");
+      }
+</script>
+<Body</HTML>
